@@ -1,0 +1,2 @@
+SampleCodeNumber,ClumpThickness,UniformityOfCellSize,UniformityofCellShape,MarginalAdhesion,SingleEpithelialCellSize,BareNuclei,BlandChromatin,NormalNucleoli,Mitoses,Class
+multiclass,multiclass,multiclass,multiclass,multiclass,multiclass,multiclass,multiclass,multiclass,multiclass,multiclass
