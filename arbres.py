@@ -9,7 +9,7 @@ import numpy as np
 import math
 
 ###############################################################################################
-###		Funcions de tractament de fitxers													###
+###		    Funcions de tractament de fitxers													###
 ###############################################################################################
 class Reader:
 	def __init__(self,database,info,substitutionType=0,boolId=0):
